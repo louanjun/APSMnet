@@ -1,0 +1,17 @@
+
+Administrative divisions of GBA:
+Link of baidu netdisk：https://pan.baidu.com/s/1OQGgIuoxVBYKspFcgcoegw 
+Password：dt7e
+
+
+Processed long-term series wetland datasets and samples：
+Link of baidu netdisk：https://pan.baidu.com/s/1tJzP8E_rp34qzPTXyr4rZw 
+Password：cq0k
+
+
+Code for extracting maximum wetland extent：
+https://code.earthengine.google.com/a9f00b3ca44b78f53458c0c3bd059149
+
+Code for sample migration to obtain training and testing samples：
+https://code.earthengine.google.com/c679bd113bd1c3daebc21cd3b22ba935
+
